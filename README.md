@@ -1,4 +1,5 @@
 ## ¡Hola a todos! 👋
+# Soy Yikus , y soy estudiante del Instituto Profesional DUOC UC , estoy estudiando Ingenieria en Informatica , es mi primer año 
 
 <!--
 **fe-macias/fe-macias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
