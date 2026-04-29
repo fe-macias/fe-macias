@@ -1,6 +1,8 @@
 ## ¡Hola a todos! 👋
-Soy Yikus , y soy estudiante del Instituto Profesional DUOC UC , estoy estudiando Ingenieria en Informatica , es mi primer año 
-
+Soy Yikus , y soy estudiante del Instituto Profesional DUOC UC , estoy estudiando Ingenieria en Informatica , es mi primer año
+He trabajado en distintos lenguajes , mi favorito (hasta el momento) es C++! pero tambien uso Python , C y Arduino
+Mi mayor proyecto personal fue ganar el primer lugar en una competencia en la Fundacion Mustakis en el año 2018
+Hobbies : videojuegos , gym , leer libros y desarmar/armar computadoras
 <!--
 **fe-macias/fe-macias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
