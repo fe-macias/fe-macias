@@ -1,19 +1,35 @@
-## ¡Hola a todos! 👋
-Soy Yikus , y soy estudiante del Instituto Profesional DUOC UC , estoy estudiando Ingenieria en Informatica , es mi primer año
-He trabajado en distintos lenguajes , mi favorito (hasta el momento) es C++! pero tambien uso Python , C y Arduino
-Mi mayor proyecto personal fue ganar el primer lugar en una competencia en la Fundacion Mustakis en el año 2018
-Hobbies : videojuegos , gym , leer libros y desarmar/armar computadoras
-<!--
-**fe-macias/fe-macias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola a todos! 👋</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Mi nombre es Yikus y soy estudiante de Ingenieria en Informatica en el Instituto Profesional DUOC UC , soy estudiante de primer año</p>
+
+###
+
+<h2 align="left">Sobre mi</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 Soy titulado en Tecnico en Enfermeria (Nivel Medio)<br>🎯 Logros : Primer lugar en Robotica Educativa en la Fundacion Mustakis<br>🎲 Hobbies : me gusta los videojuegos , gym y leer el diario</p>
+
+###
+
+<h2 align="left">Estoy aprendiendo</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
