@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Soy titulado en Tecnico en Enfermeria (Nivel Medio)<br>🎯 Logros : Primer lugar en Robotica Educativa en la Fundacion Mustakis<br>🎲 Hobbies : me gusta los videojuegos , gym y leer el diario</p>
+<p align="left"><br>📚 Soy titulado en Tecnico en Enfermeria (Nivel Medio)<br>🎯 Logros : Primer lugar en Robotica Educativa en la Fundacion Mustakis<br>🎲 Hobbies : me gusta los videojuegos , gym y leer el diario</p>
 
 ###
 
